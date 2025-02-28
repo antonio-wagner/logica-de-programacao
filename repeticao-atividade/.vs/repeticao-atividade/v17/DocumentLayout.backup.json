@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Desktop\\wagner-oliveira\\logica-de-programacao\\repeticao-atividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7183F97B-8BD3-4984-88CF-E25ED2756FEB}|repeticao-atividade\\repeticao-atividade.csproj|d:\\users\\aluno\\desktop\\wagner-oliveira\\logica-de-programacao\\repeticao-atividade\\repeticao-atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7183F97B-8BD3-4984-88CF-E25ED2756FEB}|repeticao-atividade\\repeticao-atividade.csproj|solutionrelative:repeticao-atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\wagner-oliveira\\logica-de-programacao\\repeticao-atividade\\repeticao-atividade\\Program.cs",
+              "RelativeDocumentMoniker": "repeticao-atividade\\Program.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\wagner-oliveira\\logica-de-programacao\\repeticao-atividade\\repeticao-atividade\\Program.cs*",
+              "RelativeToolTip": "repeticao-atividade\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:55:55.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

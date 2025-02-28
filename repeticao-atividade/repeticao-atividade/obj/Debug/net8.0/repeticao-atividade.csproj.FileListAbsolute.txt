@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\bin\Debug\net8.0\repeticao-atividade.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\bin\Debug\net8.0\repeticao-atividade.deps.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\bin\Debug\net8.0\repeticao-atividade.runtimeconfig.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\bin\Debug\net8.0\repeticao-atividade.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\bin\Debug\net8.0\repeticao-atividade.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\repeticao-atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\repeticao-atividade.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\repeticao-atividade.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\repeticao-atividade.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\repeticao-atividade.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\refint\repeticao-atividade.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\repeticao-atividade.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\repeticao-atividade.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\repeticao-atividade\repeticao-atividade\obj\Debug\net8.0\ref\repeticao-atividade.dll

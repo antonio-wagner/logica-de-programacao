@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\bin\Debug\net8.0\forca.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\bin\Debug\net8.0\forca.deps.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\bin\Debug\net8.0\forca.runtimeconfig.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\bin\Debug\net8.0\forca.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\bin\Debug\net8.0\forca.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\forca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\forca.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\forca.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\forca.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\forca.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\refint\forca.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\forca.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\forca.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\forca\forca\obj\Debug\net8.0\ref\forca.dll

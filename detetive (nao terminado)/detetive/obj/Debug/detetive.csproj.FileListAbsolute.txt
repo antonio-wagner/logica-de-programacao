@@ -1,0 +1,5 @@
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\detetive\detetive\obj\Debug\detetive.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\detetive\detetive\obj\Debug\detetive.Form1.resources
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\detetive\detetive\obj\Debug\detetive.Properties.Resources.resources
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\detetive\detetive\obj\Debug\detetive.csproj.GenerateResource.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\detetive\detetive\obj\Debug\detetive.csproj.CoreCompileInputs.cache

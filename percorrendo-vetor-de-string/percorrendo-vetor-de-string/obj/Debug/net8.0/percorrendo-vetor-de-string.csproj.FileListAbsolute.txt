@@ -1,0 +1,14 @@
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\bin\Debug\net8.0\percorrendo-vetor-de-string.exe
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\bin\Debug\net8.0\percorrendo-vetor-de-string.deps.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\bin\Debug\net8.0\percorrendo-vetor-de-string.runtimeconfig.json
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\bin\Debug\net8.0\percorrendo-vetor-de-string.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\bin\Debug\net8.0\percorrendo-vetor-de-string.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\percorrendo-vetor-de-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\percorrendo-vetor-de-string.AssemblyInfoInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\percorrendo-vetor-de-string.AssemblyInfo.cs
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\percorrendo-vetor-de-string.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\percorrendo-vetor-de-string.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\refint\percorrendo-vetor-de-string.dll
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\percorrendo-vetor-de-string.pdb
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\percorrendo-vetor-de-string.genruntimeconfig.cache
+D:\Users\Aluno\Desktop\wagner-oliveira\logica-de-programacao\percorrendo-vetor-de-string\percorrendo-vetor-de-string\obj\Debug\net8.0\ref\percorrendo-vetor-de-string.dll
